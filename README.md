@@ -1,4 +1,4 @@
-# JS Chat Website 💬 👾
+# REALTIME CHAT
 
 ![JS website chat GIF](https://blog.chatengine.io/assets/per-post/nodejs-react-demo.gif)
 
